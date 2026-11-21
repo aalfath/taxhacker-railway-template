@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/taxhacker-2?utm_medium=integration&utm_source=button&utm_campaign=taxhacker)
+
 # TaxHacker on Railway
 
 A one-click [Railway](https://railway.com) template for [TaxHacker](https://github.com/vas3k/TaxHacker), the self-hosted AI accounting app by vas3k: upload receipts, invoices and bank statements, and an LLM (OpenAI, Gemini, Mistral or any OpenAI-compatible endpoint) extracts merchants, amounts, taxes and items into a searchable transaction table.
